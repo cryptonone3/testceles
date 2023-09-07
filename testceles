@@ -43,7 +43,7 @@ CELESTIA_NODENAME="MY_NODE"
 CELESTIA_WALLET="MY_WALLET"
 CELESTIA_CHAIN="mamaki"
 
-اطلاعات  داخل "" رو پاک کنید و اطلاعات خودتون رو قرار بدید
+اطلاعات  داخل "" اطلاعات خودتون رو قرار بدید
 
 CELESTIA_NODENAME="amir" 
 CELESTIA_WALLET="amir8372"
