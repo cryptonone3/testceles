@@ -151,7 +151,7 @@ wget -O - https://snaps.qubelabs.io/celestia/${SNAP_NAME} | tar xf - \
     -C ~/.celestia-app/data/
 
 ------------------------------------------------------------------
-منتظر بمانید تا گره شما اکثر زنجیره بلوکی Celestia دانلود کند
+منتظر بمانید تا گره شما اکثر زنجیره بلوکی  دانلود کند
 
 --------------------------------------------------
 sudo systemctl restart celestia-appd && journalctl -u celestia-appd -f -o cat
